@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Robbinss Manoda</title>
+    </head>
+
+    <body>
+    	<h1><strong>Robbinss Manoda</strong><br /></h1>
+    		<a href="manoda.png"> <img src="manoda_mini.png" alt="ma photo" title="Cliquez pour agrandir" /></a>
+
+    	<h2><strong>Mon experience</strong></h2>
+    	<p><ul><li>De 2014 a 2018: etudes universitaires.</li></ul>
+    	   <ul><li>De 2018 a aujourd"hui: Instructeur Cisco a l'Academie Katanga Networking Academy</li></ul></p>
+
+    	<h2><strong>Mes competences</strong><br /></h2>
+    	<p><ul><li>IT Essentials (Certificat Cisco)</li></ul>
+    		<ul><li>CCNA 1,CCNA 2,CCNA 3 & CCNA4 (Certificat Cisco)</li></ul>
+    	   <ul><li>Administration reseaux & Systemes informatique (Diplome de Bachelier)</li></ul>
+    	   </p>
+
+    	<h2><strong>Mes formation !</strong><br /></h2>
+    	<p>Je dois admettre que j'ai fait beaucoup des formations:<br />
+    	   <ul><li>formation Cisco</li></ul>
+    	   <ul><li>formation instructeur Cisco</li></ul>
+    	   <ul><li>formation Odoo</li></ul>
+    	   <strong>N.B : Presentement je suis entrain de suivre une formation sur Openclassrooms, sur le developpement web</strong></p>
+    </body>
+</html>
